@@ -1,3 +1,5 @@
-Hi,
+﻿Hi,
 Welcome to the course
+
+Hi, Hello World  Ishmael!!!
 
